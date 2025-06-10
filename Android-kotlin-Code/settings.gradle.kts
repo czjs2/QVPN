@@ -1,4 +1,4 @@
-rootProject.name = "UUVPN"
+rootProject.name = "QVPN"
 
 include(":app")
 include(":core")
